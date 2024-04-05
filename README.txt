@@ -1,4 +1,4 @@
-# Convolutional Neural Network (CNN) Model
+#Convolutional Neural Network (CNN) Model
 
 This repository contains the code for a Convolutional Neural Network (CNN) model built using Keras with TensorFlow backend.
 
